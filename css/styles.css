@@ -1,0 +1,25 @@
+.hstyle {
+  color: blue;
+}
+#show-places {
+  display: none;
+}
+.place {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.place:hover {
+  text-decoration: underline;
+}
+
+.jumbotron {
+  text-align: center;
+  color: purple;
+}
+
+body {
+  background-color: lightgreen;
+  font-style: italic;
+  font-family: cursive;
+}
